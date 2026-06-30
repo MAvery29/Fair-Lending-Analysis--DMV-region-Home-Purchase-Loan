@@ -1,4 +1,4 @@
-# Fair Lending Analysis — DMV Region Home Purchase Loans (2025 HMDA Data)
+# Fair Lending Analysis — DMV Region Home Purchase Loans (2023 HMDA Data)
 
 ## Overview
 This project analyzes mortgage approval patterns across race, sex, and geography in the DC, Maryland, and Virginia (DMV) region using Home Mortgage Disclosure Act (HMDA) data. The goal is to surface disparities in loan approval outcomes and loan amounts across demographic groups.
