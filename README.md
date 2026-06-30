@@ -5,7 +5,7 @@ This project analyzes mortgage approval patterns across race, sex, and geography
 
 ## Data Source
 - **Source:** FFIEC HMDA Platform (ffiec.cfpb.gov)
-- **Year:** 2025
+- **Year:** 2023
 - **Scope:** DC, Maryland, Virginia
 - **Filter:** Home purchase loans only
 
