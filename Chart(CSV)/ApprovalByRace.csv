@@ -1,0 +1,19 @@
+derived_race,action_taken_label,proportion
+2 or more minority races,Approved,0.8179271708683473
+2 or more minority races,Denied,0.18207282913165265
+American Indian or Alaska Native,Approved,0.7924281984334204
+American Indian or Alaska Native,Denied,0.20757180156657964
+Asian,Approved,0.8911803422553751
+Asian,Denied,0.10881965774462483
+Black or African American,Approved,0.8136069636704346
+Black or African American,Denied,0.1863930363295654
+Free Form Text Only,Approved,0.5675675675675675
+Free Form Text Only,Denied,0.43243243243243246
+Joint,Approved,0.9163400920088601
+Joint,Denied,0.08365990799113988
+Native Hawaiian or Other Pacific Islander,Approved,0.8064516129032258
+Native Hawaiian or Other Pacific Islander,Denied,0.1935483870967742
+Race Not Available,Approved,0.8733713475344934
+Race Not Available,Denied,0.12662865246550653
+White,Approved,0.9078493063926287
+White,Denied,0.09215069360737124

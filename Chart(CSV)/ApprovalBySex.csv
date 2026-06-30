@@ -1,0 +1,11 @@
+applicant_sex_label,action_taken_label,proportion
+Applicant selected both male and female,Approved,0.8
+Applicant selected both male and female,Denied,0.2
+Female,Approved,0.8719260049388489
+Female,Denied,0.12807399506115114
+Information Not Provided,Approved,0.8735211507362328
+Information Not Provided,Denied,0.12647884926376712
+Male,Approved,0.8914461656884441
+Male,Denied,0.10855383431155585
+Not Applicable,Approved,0.8795491899506926
+Not Applicable,Denied,0.12045081004930736
