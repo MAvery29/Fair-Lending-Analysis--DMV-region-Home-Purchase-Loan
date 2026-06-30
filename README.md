@@ -29,9 +29,9 @@ This project analyzes mortgage approval patterns across race, sex, and geography
 - **Geography:** Minimal variation in approval rates across DC (89.8%), Maryland (88.4%), and Virginia (88.1%)
 
 ## Dashboard
-[Link to Tableau Public dashboard]
+https://public.tableau.com/authoring/HomeLoan_17828552146910/Dashboard1#1
 
 ## Files
-- `notebooks/` — Python cleaning and EDA notebook
+- `DMVLoan.ipynb` — Python cleaning and EDA notebook
 - `data/` — exported summary CSVs used for Tableau
-- `dashboard/` — Tableau workbook (.twbx)
+- `Home Loan.twb` — Tableau workbook (.twbx)
