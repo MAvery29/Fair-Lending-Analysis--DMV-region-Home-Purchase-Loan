@@ -33,5 +33,5 @@ https://public.tableau.com/app/profile/marc.avery/viz/HomeLoan_17828552146910/Da
 
 ## Files
 - `DMVLoan.ipynb` — Python cleaning and EDA notebook
-- `data/` — exported summary CSVs used for Tableau
+- `Chart(CSV)/` — exported summary CSVs used for Tableau
 - `Home Loan.twb` — Tableau workbook (.twbx)
